@@ -30,7 +30,7 @@ const Home = () => {
                   className="uppercase flex items-center gap-2"
                   aria-label="Download CV">
                   <a
-                    href="/assets/resume/Satheesh_BollineniResume.pdf"
+                    href="https://drive.google.com/file/d/1l_oRZXxInFen4ywwy3r9asZo-TjPFojb/view"
                     download
                     className="flex items-center gap-2 w-full h-full">
                     <span>Download CV</span>
