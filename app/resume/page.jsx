@@ -4,8 +4,8 @@ import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 
 
 const about={
-  title:"About me",
-  description:"Lorem ipsum",
+  title:"About Me",
+  description:"I am a passionate Front-End Developer with over 3 years of experience in building dynamic and user-friendly web applications. I specialize in React.js, Next.js, and cloud-based solutions and combining strong problem-solving skills with a commitment to delivering high-quality results",
   info:[
     {
       fieldName:"Name",
@@ -29,7 +29,7 @@ const about={
 const experience={
   icon:"/assets/resume/badge.svg",
   title:"My Experience",
-  description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi odio blanditiis necessitatibus, magni debitis quibusdam perferendis ullam dolores accusamus impedit voluptas nostrum tempora molestias eos dicta ratione dolorem et nam?",
+  description:" I have over 3 years of experience as a Front-End Developer, working with clients like Unilever, Blackstone, and MicroFocus. I specialize in building dynamic web applications using React.js, Next.js, and integrating APIs seamlessly. My expertise extends to optimizing website performance, implementing scalable AWS solutions, and delivering user-focused designs.",
   items:[
     {
       company:"Vxceed Technologies",
@@ -52,7 +52,7 @@ const experience={
 const education={
   icon:"/assests/resume/badge.svg",
   title:"My Education",
-  description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi odio blanditiis necessitatibus, magni debitis quibusdam perferendis ullam dolores accusamus impedit voluptas nostrum tempora molestias eos dicta ratione dolorem et nam?",
+  description:"I hold a Master’s degree in Computer Science, providing me with advanced knowledge in software development, algorithms, and problem-solving. This education has equipped me with the technical expertise required to excel in modern web development.",
   items:[
     {
       institution:"Pace University",
@@ -79,7 +79,7 @@ const education={
 }
 const skills={
   title:"My Skills",
-  description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi odio blanditiis necessitatibus, magni debitis quibusdam perferendis ullam dolores accusamus impedit voluptas nostrum tempora molestias eos dicta ratione dolorem et nam?",
+  description:"I specialize in React.js, Next.js, and Tailwind CSS for building responsive, user-friendly interfaces. With expertise in API integration and AWS-certified cloud architecture, I create scalable, secure solutions. My problem-solving skills in Data Structures and Algorithms enhance my development capabilities.",
   skillist:[
     {
       icon:<FaHtml5/>,

@@ -21,7 +21,7 @@ const projects = [
     category: "frontend",
     title: "Black Stone",
     description:
-      "I have worked in Blackstone project as a front-end developer, integrating APIs, creating portfolios for customers, and designing and developing web pages.",
+      "I contributed to the Blackstone project as a Front-End Developer, where I specialized in integrating APIs, crafting customer portfolios, and designing and developing dynamic, user-centric web pages",
     stack: [
       { name: "Html5" }, 
       { name: "Css3" }, 
@@ -38,7 +38,7 @@ const projects = [
     category: "fullstack",
     title: "Xnapp Sales",
     description:
-      "I have worked as a full stack developer,Integrating API's in both front end and backend, Updating the product data based on promotions and integrated the key features like order quantity based on the size",
+      "I have worked as a Full Stack Developer, seamlessly integrating APIs on both the front-end and back-end, updating product data based on promotions, and implementing key features such as dynamic order quantity adjustments based on product size.",
     stack: [
       { name: "Html5" },
       { name: "Css3" },
@@ -56,7 +56,7 @@ const projects = [
     category: "Game Programming",
     title: "Shoot the targets",
     description:
-      "In the Game programming course i have developed some 3D games and deployed in the itch.io using unity and C# programming ",
+      "During the Game Programming course, I developed 3D games using Unity and C# and successfully deployed them on itch.io, showcasing my skills in game design, programming, and deployment. ",
     stack: [
       { name: "C#" },
       { name: "Unity" }
@@ -70,7 +70,7 @@ const projects = [
     category: "Mobile Web development",
     title: "Smart Eats Nutrition Tracker",
     description:
-      "In the Android web development couse i have developed an app name Nutrition tracker to keep track of calories from food  ",
+      "During the Android Web Development course, I developed a Nutrition Tracker app to help users monitor their calorie intake from food, demonstrating my skills in app design and development. ",
     stack: [
       { name: "kotlin" },
       { name: "javascipt" },
@@ -85,7 +85,7 @@ const projects = [
     category: "Final Proiect",
     title: "DestinEase",
     description:
-      "In the Final project we build an website named DestinEase which uses Machine learning algorithms to find the desired locations based on the user preferences ",
+      "For my final project, we developed a website named DestinEase, which leverages Machine Learning algorithms to recommend desired locations tailored to user preferences, showcasing our expertise in AI-driven web solutions",
     stack: [
       { name: "HTML" },
       { name: "CSS3" },

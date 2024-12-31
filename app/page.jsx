@@ -17,10 +17,7 @@ const Home = () => {
               Hello, I'm <br /> <span className="text-accent">Satheesh Bollineni</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              I am a professional Front-End Developer with exceptional problem-solving
-              abilities in Data Structures and Algorithms. I specialize in designing
-              and implementing scalable, efficient, and secure solutions, with
-              expertise in Back-End development and cloud architecture.
+              I am a passionate Front-End Developer with a talent for crafting scalable, efficient, and secure web solutions. Leveraging my expertise in Data Structures, Algorithms, and cloud architecture, I transform complex challenges into seamless, user-focused experiences, bridging the gap between design and functionality."
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               {/* Download CV Button */}
