@@ -12,12 +12,12 @@ const Home = () => {
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* Text Section */}
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Software Developer</span>
+            <span className="text-xl">Full-Stack Developer</span>
             <h1 className="h1 mb-6">
               Hello, I'm <br /> <span className="text-accent">Satheesh Bollineni</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              I am a passionate Front-End Developer with a talent for crafting scalable, efficient, and secure web solutions. Leveraging my expertise in Data Structures, Algorithms, and cloud architecture, I transform complex challenges into seamless, user-focused experiences, bridging the gap between design and functionality."
+              I am a passionate Full-Stack and Front-End Developer with expertise in React.js, Vue.js, JavaScript, and Java for building scalable, high-performance applications. With a strong foundation in Data Structures, Algorithms, and Cloud Architecture (AWS, Kubernetes, Docker), I create secure and efficient solutions that enhance user experiences. My experience in RESTful APIs, Microservices, and Agile development allows me to bridge the gap between design and functionality, delivering seamless and responsive web applications.
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               {/* Download CV Button */}

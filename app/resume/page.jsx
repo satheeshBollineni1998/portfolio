@@ -5,7 +5,7 @@ import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 
 const about={
   title:"About Me",
-  description:"I am a passionate Front-End Developer with over 3 years of experience in building dynamic and user-friendly web applications. I specialize in React.js, Next.js, and cloud-based solutions and combining strong problem-solving skills with a commitment to delivering high-quality results",
+  description:"I am a passionate Full-Stack and Front-End Developer with expertise in React.js, Vue.js, JavaScript, and Java for building scalable, high-performance applications. With a strong foundation in Data Structures, Algorithms, and Cloud Architecture (AWS, Kubernetes, Docker), I create secure and efficient solutions that enhance user experiences. My experience in RESTful APIs, Microservices, and Agile development allows me to bridge the gap between design and functionality, delivering seamless and responsive web applications",
   info:[
     {
       fieldName:"Name",
@@ -17,7 +17,7 @@ const about={
     },
     {
       fieldName:"Experience",
-      fieldValue:"4 years"
+      fieldValue:"8 years"
     },
     {
       fieldName:"Email",
@@ -29,8 +29,13 @@ const about={
 const experience={
   icon:"/assets/resume/badge.svg",
   title:"My Experience",
-  description:" I have over 3 years of experience as a Front-End Developer, working with clients like Unilever, Blackstone, and MicroFocus. I specialize in building dynamic web applications using React.js, Next.js, and integrating APIs seamlessly. My expertise extends to optimizing website performance, implementing scalable AWS solutions, and delivering user-focused designs.",
+  description:" I have 8 years of experience as a Full-Stack Developer, working with clients like Unilever, Blackstone, and MicroFocus. I specialize in building dynamic web applications using React.js, Next.js, and integrating APIs seamlessly. My expertise extends to optimizing website performance, implementing scalable AWS solutions, and delivering user-focused designs.",
   items:[
+    {
+      company:"AmTrust Financial Services, Inc.",
+      position:"Full Stack Developer",
+      duration:"Aug2023 to Dec 2024",
+    },
     {
       company:"Vxceed Technologies",
       position:"Product Engineer",
@@ -43,8 +48,13 @@ const experience={
     },
     {
       company:"Wipro Technologies",
-      position:"Project Engineer",
+      position:"Front end Developer",
       duration:"May-2019 to Oct-2021",
+    },
+    {
+      company:"Algofusion Technologies India Pvt Ltd ",
+      position:"Junior Software Engineer",
+      duration:"May-2018 to Apr-2019",
     }
   ]
 
