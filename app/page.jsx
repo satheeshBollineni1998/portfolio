@@ -27,7 +27,7 @@ const Home = () => {
                   className="uppercase flex items-center gap-2"
                   aria-label="Download CV">
                   <a
-                    href="https://drive.google.com/file/d/1l_oRZXxInFen4ywwy3r9asZo-TjPFojb/view"
+                    href="https://drive.google.com/file/d/1jK2VgvfgSpZHJRRmb75I2qN6kG_FYSt9/view"
                     download
                     className="flex items-center gap-2 w-full h-full">
                     <span>Download CV</span>
