@@ -17,7 +17,7 @@ const about={
     },
     {
       fieldName:"Experience",
-      fieldValue:"8 years"
+      fieldValue:"5 years"
     },
     {
       fieldName:"Email",
@@ -29,12 +29,12 @@ const about={
 const experience={
   icon:"/assets/resume/badge.svg",
   title:"My Experience",
-  description:" I have 8 years of experience as a Full-Stack Developer, working with clients like Unilever, Blackstone, and MicroFocus. I specialize in building dynamic web applications using React.js, Next.js, and integrating APIs seamlessly. My expertise extends to optimizing website performance, implementing scalable AWS solutions, and delivering user-focused designs.",
+  description:" I have 5 years of experience as a Full-Stack Developer, working with clients like Unilever, Blackstone, and MicroFocus. I specialize in building dynamic web applications using React.js, Next.js, and integrating APIs seamlessly. My expertise extends to optimizing website performance, implementing scalable AWS solutions, and delivering user-focused designs.",
   items:[
     {
       company:"AmTrust Financial Services, Inc.",
       position:"Full Stack Developer",
-      duration:"Dec 2023 to Present",
+      duration:"Sep2024 to Present",
     },
     {
       company:"Vxceed Technologies",
@@ -50,11 +50,6 @@ const experience={
       company:"Wipro Technologies",
       position:"Front end Developer",
       duration:"May-2019 to Oct-2021",
-    },
-    {
-      company:"Algofusion Technologies India Pvt Ltd ",
-      position:"Junior Software Engineer",
-      duration:"May-2018 to Apr-2019",
     }
   ]
 
